@@ -1,0 +1,31 @@
+{
+  "name": "rsa_js",
+  "version": "1.0.0",
+  "description": "Simple package to handle RSA encryption and decryption algorithm",
+  "main": "./src/RSA.js",
+  "keywords": [
+    "RSA",
+    "encryption",
+    "decryption"
+  ],
+  "author": {
+    "name": "Teguh Rijanandi",
+    "email": "teguhrijanandi02@gmail.com",
+    "url": "https://www.linkedin.com/in/teguhrijanandi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teguh02/rsa_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teguh02/rsa_js/issues"
+  },
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
