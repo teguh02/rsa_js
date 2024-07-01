@@ -1,6 +1,6 @@
 {
-  "name": "rsa_js",
-  "version": "1.0.0",
+  "name": "@teguh02/rsa_js",
+  "version": "1.0.1",
   "description": "Simple package to handle RSA encryption and decryption algorithm",
   "main": "./src/RSA.js",
   "keywords": [
