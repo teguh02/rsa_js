@@ -1,5 +1,6 @@
 // Import the RSA module
-import RSA from '../src/RSA.mjs';
+// import RSA from '../src/RSA.mjs';
+import RSA from '@teguh02/rsa_js';
 
 describe('RSA Encryption and Decryption With P: 101 Q: 103', () => {
     const p = 101;
